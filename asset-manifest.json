@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hannahbrantley/project-4-assessment.git/static/css/main.1be38105.chunk.css",
+    "main.js": "/hannahbrantley/project-4-assessment.git/static/js/main.6377f239.chunk.js",
+    "main.js.map": "/hannahbrantley/project-4-assessment.git/static/js/main.6377f239.chunk.js.map",
+    "runtime-main.js": "/hannahbrantley/project-4-assessment.git/static/js/runtime-main.d9b41ef3.js",
+    "runtime-main.js.map": "/hannahbrantley/project-4-assessment.git/static/js/runtime-main.d9b41ef3.js.map",
+    "static/js/2.0d68efe0.chunk.js": "/hannahbrantley/project-4-assessment.git/static/js/2.0d68efe0.chunk.js",
+    "static/js/2.0d68efe0.chunk.js.map": "/hannahbrantley/project-4-assessment.git/static/js/2.0d68efe0.chunk.js.map",
+    "index.html": "/hannahbrantley/project-4-assessment.git/index.html",
+    "precache-manifest.19b57759b9fff35f28f68a200a909b2a.js": "/hannahbrantley/project-4-assessment.git/precache-manifest.19b57759b9fff35f28f68a200a909b2a.js",
+    "service-worker.js": "/hannahbrantley/project-4-assessment.git/service-worker.js",
+    "static/css/main.1be38105.chunk.css.map": "/hannahbrantley/project-4-assessment.git/static/css/main.1be38105.chunk.css.map",
+    "static/js/2.0d68efe0.chunk.js.LICENSE.txt": "/hannahbrantley/project-4-assessment.git/static/js/2.0d68efe0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b41ef3.js",
+    "static/js/2.0d68efe0.chunk.js",
+    "static/css/main.1be38105.chunk.css",
+    "static/js/main.6377f239.chunk.js"
+  ]
+}
